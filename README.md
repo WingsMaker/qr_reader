@@ -4,7 +4,7 @@ Can be used for those company laptop with restricted access.
 
 Background
            Today we still use public website webqr.com or etc to read QR via public internet.
-           Better way for company laptop is to use in-house webapp ( with no access to external world in the company network  )
+           Better way for company laptop is to use in-house webapp ( with no access to outside world  )
 
 Reference
 https://www.forbes.com/sites/forbestechcouncil/2020/06/01/i-dont-scan-qr-codes-and-neither-should-you/?sh=2f9a89451d1e

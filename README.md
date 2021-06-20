@@ -1,5 +1,5 @@
 # qr_reader
-Wrote my own webapp for QR code handling. No need internet access, clean codes.
+Wrote my own webapp for QR code reader. No need internet access, clean codes.
 Can be used for those company laptop with restricted access.
 
 Background

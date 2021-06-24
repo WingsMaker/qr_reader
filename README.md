@@ -1,4 +1,5 @@
 #Offline QR code import / scanner
+
 Wrote my own webapp for QR code reader. No need internet access, clean codes.
 Can be used for those company laptop with restricted access.
 

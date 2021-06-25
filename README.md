@@ -1,6 +1,11 @@
 # Offline QR code scanner or import
 
-Wrote my own webapp for QR code reader. No need internet access, clean codes.
+[QR Import](https://wingsmaker.github.io/crypto/qr_import.html)
+
+[QR Scan](https://wingsmaker.github.io/crypto/qrscan.html)
+
+
+Webapp for QR code reader. No need internet access, clean codes.
 Can be used for those company laptop with restricted access.
 
 Background

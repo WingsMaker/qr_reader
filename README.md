@@ -1,8 +1,8 @@
 # Offline QR code scanner or import
 
-[QR Import](https://wingsmaker.github.io/crypto/qr_import.html)
+[QR Import](https://wingsmaker.github.io/Github/qr_import.html)
 
-[QR Scan](https://wingsmaker.github.io/crypto/qrscan.html)
+[QR Scan](https://wingsmaker.github.io/Github/qrscan.html)
 
 
 Webapp for QR code reader. No need internet access, clean codes.

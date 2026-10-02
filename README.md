@@ -21,4 +21,4 @@ How to install?
 - creates a folder "qr_reader" in your desktop, download the 3 files ( .html and .js ) into it.
 - just open the html file using your internet browser.
 
-![image](https://user-images.githubusercontent.com/32192638/122538988-b3138600-d059-11eb-8d4e-01186f8e45c8.png)
+<img width="367" height="705" alt="image" src="https://github.com/user-attachments/assets/f82db3a1-9edf-4f93-a34a-11d71f2cf3d4" />

@@ -4,7 +4,7 @@
 
 [QR Scan](https://wingsmaker.github.io/Github/qrscan.html)
 
-
+<pre>
 Webapp for QR code reader. No need internet access, clean codes.
 Can be used for those company laptop with restricted access.
 
@@ -20,5 +20,6 @@ It can be also be used for internet isolated machines, as well as personal PC.
 How to install?
 - creates a folder "qr_reader" in your desktop, download the 3 files ( .html and .js ) into it.
 - just open the html file using your internet browser.
-
+           
+</pre>
 <img width="367" height="705" alt="image" src="https://github.com/user-attachments/assets/f82db3a1-9edf-4f93-a34a-11d71f2cf3d4" />
